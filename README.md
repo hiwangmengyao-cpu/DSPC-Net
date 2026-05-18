@@ -66,16 +66,3 @@ The script will output a high-resolution comparison image to the `./outputs` dir
 * **Blue (True Positive):** Correctly detected water bodies.
 * **Red (False Positive):** Over-predicted areas (Noise/Shadows).
 * **Yellow (False Negative):** Missed topological details (Disconnected water bodies).
-
-## Citation
-If you find our architecture, LCSC module, or code useful for your research, please consider citing our paper:
-
-```bibtex
-@article{YourName2026DSPCNet,
-  title={DSPC-Net: [Insert the full title of your paper here]},
-  author={[Insert Authors]},
-  journal={[Insert Journal Name]},
-  year={2026},
-  publisher={[Insert Publisher]}
-}
-```
